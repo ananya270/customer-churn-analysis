@@ -414,5 +414,5 @@ Churn probability is a model estimate, not certainty. Retention actions should b
 # 👨‍💻 Author
 
 **Ananya Chauhan**  
-B.Tech CSE — ABES Engineering College
+B.Tech CS — ABES Engineering College
 
